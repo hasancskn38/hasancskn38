@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [hasan-coskun.com](hasan-coskun.com)
+- 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
 - 💬 Ask me about **HTML, CSS, JS and Angular**
 
