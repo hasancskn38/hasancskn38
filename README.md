@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS and Angular**
 
-- 📫 How to reach me **hasan.coskun38@outlook.de**
+- 📫 How to reach me **contact@hasan-coskun.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
