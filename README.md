@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasancskn38&label=Profile%20views&color=0e75b6&style=flat" alt="hasancskn38" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
 - 👨‍💻 All of my projects are available at [portfolio](https://hasan-coskun.com)
 
-- 💬 Ask me about **HTML, CSS, JS and Angular**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript and Angular**
 
 - 📫 How to reach me **contact@hasan-coskun.com**
 
